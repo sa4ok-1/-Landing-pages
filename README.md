@@ -1,4 +1,34 @@
-# Base layout template with Gulp, SCSS and Stylelint
-1. Create a repo using this template
-1. Replace `<your_account>` and `<repo_name>` with your Github username and the new repo name
-    - [DEMO LINK](https://<your_account>.github.io/<repo_name>/)
+# MyBike
+
+A brief description of the project:
+This project is a modern, responsive website for MyBike, showcasing various bike models, their features, and allowing users to compare them. It also includes a contact form and additional product details.
+
+## Technologies Used
+
+- HTML5
+- SCSS
+
+## DEMO LINK
+
+https://sa4ok-1.github.io/-Landing-pages/
+
+## Git
+
+https://github.com/sa4ok-1/-Landing-pages/tree/develop
+
+## Launch Instructions
+
+To run this project locally:
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/sa4ok-1/-Landing-pages.git
+
+   cd src
+
+   npm install
+
+   npm run build
+
+
