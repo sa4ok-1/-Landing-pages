@@ -14,7 +14,7 @@ https://sa4ok-1.github.io/-Landing-pages/
 
 ## Git
 
-https://github.com/sa4ok-1/-Landing-pages/tree/develop
+https://github.com/sa4ok-1/-Landing-pages
 
 ## Launch Instructions
 
